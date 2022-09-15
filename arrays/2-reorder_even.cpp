@@ -48,9 +48,6 @@ int main()
                    // passed array itself, so its necessary to pass &arr by reference.
     for (int i = 0; i < arr.size(); i++)
         std::cout << i << ": " << arr[i] << std::endl;
-    
-
-
 }
 
 
